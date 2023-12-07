@@ -1,4 +1,4 @@
-## Opa, eu sou o Guilherme, estudante do Ensino Médio e de Programação!
+## Guilherme Horstmann, estudante do IFC - Informática!
 <div align="left">
   <a href="https://github.com/guilhermeezx">
   
