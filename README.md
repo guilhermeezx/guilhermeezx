@@ -1,4 +1,4 @@
-## Guilherme Horstmann, estudante do IFC - Informática!
+## Guilherme Horstmann
 <div align="left">
   <a href="https://github.com/guilhermeezx">
   
